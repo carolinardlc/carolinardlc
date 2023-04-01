@@ -1,4 +1,7 @@
-### Hi there 👋
+![github_carolinardlc](https://user-images.githubusercontent.com/94406039/229278109-d1554e22-a98e-4c82-b345-086c11fb244a.gif)
+
+
+### Hi welcome to my GitHub 👋
 
 <!--
 **carolinardlc/carolinardlc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
